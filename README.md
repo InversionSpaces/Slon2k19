@@ -46,3 +46,6 @@
   g++ rain.cpp -o rain
   ./rain
   ```
+  
+# 12. Разрезание
+  > tuk.jpg
