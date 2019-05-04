@@ -47,6 +47,10 @@
   ./rain
   ```
   
+# 11. Белый ящик
+  `document.cookie = "session_id=" + "a".repeat(32)`
+  InversionSpaces
+  
 # 12. Разрезание
   > tuk.jpg
   
