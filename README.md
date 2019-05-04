@@ -48,7 +48,7 @@
   ```
   
 # 11. Белый ящик
-  `document.cookie = "session_id=" + "a".repeat(32)`
+  `document.cookie = "session_id=" + "a".repeat(32)`  
   InversionSpaces
   
 # 12. Разрезание
